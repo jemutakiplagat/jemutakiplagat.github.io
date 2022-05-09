@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
- portfolio
+ my online deploy portfolio
 
 > Building mobile skeleton.
 
@@ -14,7 +14,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https:jemutakilagat.github.io)
+[Live Demo Link](https:jemutakiplagat.github.io)
 
 
 ## Getting Started
