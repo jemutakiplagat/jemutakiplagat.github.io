@@ -14,7 +14,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https:jemutakiplagat.github.io)
+[Live Demo Link]( https://jemutakiplagat.github.io/)
 
 
 ## Getting Started
